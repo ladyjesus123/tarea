@@ -1,0 +1,201 @@
+# Translation of Plugins - Simple Author Box - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Simple Author Box - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-28 19:17:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Simple Author Box - Development (trunk)\n"
+
+#: inc/class-simple-author-box-admin-page.php:372
+msgid "Normal"
+msgstr "Normal"
+
+#. Description of the plugin
+msgid "Adds a responsive author box with social icons on your posts."
+msgstr "Añadir cuadro de autor adaptativo con iconos sociales en tus entradas."
+
+#. Plugin Name of the plugin
+#. Translators: Welcome Screen Title.
+#: inc/elementor/widgets/class-simple-author-box-elementor.php:19
+#: inc/class-simple-author-box-admin-page.php:459
+#: inc/class-simple-author-box-admin-page.php:489
+msgid "Simple Author Box"
+msgstr "Simple Author Box"
+
+#: inc/class-simple-author-box-admin-page.php:358
+msgid "Default font size for social icons is 18px."
+msgstr "El tamaño de la fuente por defecto de los iconos sociales es 18px."
+
+#: inc/class-simple-author-box-admin-page.php:357
+msgid "Size of social icons"
+msgstr "Tamaño de los iconos sociales:"
+
+#: inc/class-simple-author-box-admin-page.php:368
+msgid "Author description font style"
+msgstr "Estilo de la fuente para la descripción del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:347
+msgid "Default font size for author description is 14px."
+msgstr "El tamaño por defecto de la fuente, para la descripción del autor es 14px."
+
+#: inc/class-simple-author-box-admin-page.php:346
+msgid "Author description font size"
+msgstr "Tamaño de la fuente para la descripción del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:335
+msgid "Default font size for author website is 14px."
+msgstr "El tamaño de la fuente por defecto para el sitio web del autor es 14px."
+
+#: inc/class-simple-author-box-admin-page.php:334
+msgid "Author website font size"
+msgstr "Tamaño de la fuente para el sitio web del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:324
+msgid "Default font size for author name is 18px."
+msgstr "El tamaño por defecto de la fuente para el nombre del autor es 18px."
+
+#: inc/class-simple-author-box-admin-page.php:323
+msgid "Author name font size"
+msgstr "Tamaño de la fuente para el nombre del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:316
+msgid "Author description font family"
+msgstr "Familia tipográfica para la descripción del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:308
+msgid "Author website font family"
+msgstr "Familia tipográfica para el sitio web del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:301
+msgid "Author name font family"
+msgstr "Familia tipográfica para el nombre del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:294
+msgid "Google font characters subset"
+msgstr "Subconjunto de caracteres de fuente de texto Google:"
+
+#: inc/class-simple-author-box-admin-page.php:286
+msgid "Social icons color (for symbols only)"
+msgstr "Color de los iconos sociales (solamente los símbolos):"
+
+#: inc/class-simple-author-box-admin-page.php:382
+msgid "This option is useful ONLY if you run a plugin that optimizes your CSS delivery or moves your stylesheets to the footer, to get a higher score on speed testing services. However, the plugin style is loaded only on single post and single page."
+msgstr "Esta opción es útil sólo si se ejecuta un plugin que optimiza la entrega de CSS o mueve sus hojas de estilo al pie de página para obtener una puntuación más alta en los servicios de pruebas de velocidad. Sin embargo, el plugin de estilo sólo se cargará, en páginas del tipo \"single post\"  y \"single page\"."
+
+#: inc/class-simple-author-box-admin-page.php:381
+msgid "Load generated inline style to footer"
+msgstr "Cargar estilos incrustados generados en el pie de página:"
+
+#: inc/class-simple-author-box-admin-page.php:373
+msgid "Italic"
+msgstr "Cursiva"
+
+#: inc/class-simple-author-box-admin-page.php:189
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/class-simple-author-box-admin-page.php:190
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/class-simple-author-box-admin-page.php:149
+msgid "Square"
+msgstr "Cuadrado"
+
+#: inc/class-simple-author-box-admin-page.php:262
+msgid "Background color of social icons bar"
+msgstr "Color de fondo de la barra de iconos sociales:"
+
+#: inc/class-simple-author-box-admin-page.php:243
+msgid "Author name color"
+msgstr "Color del nombre del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:75
+msgid "Hide the social icons on author box"
+msgstr "Ocultar iconos sociales en el recuadro del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:69
+msgid "Open social icon links in a new tab"
+msgstr "Abrir enlaces de los iconos sociales en una nueva lengüeta:"
+
+#: inc/class-simple-author-box-admin-page.php:234
+msgid "Show a thin border on colored social icons"
+msgstr "Mostrar un borde fino en iconos sociales coloreados:"
+
+#: inc/class-simple-author-box-admin-page.php:227
+msgid "Use flat long shadow effect"
+msgstr "Usar efecto de sombra plana larga:"
+
+#: inc/class-simple-author-box-admin-page.php:212
+msgid "Squares"
+msgstr "Cuadrícula"
+
+#: inc/class-simple-author-box-admin-page.php:208
+msgid "Social icons style"
+msgstr "Estilo de los iconos sociales:"
+
+#: inc/class-simple-author-box-admin-page.php:201
+msgid "Symbols"
+msgstr "Símbolos"
+
+#: inc/class-simple-author-box-admin-page.php:202
+msgid "Colored"
+msgstr "Coloreado"
+
+#: inc/class-simple-author-box-admin-page.php:177
+msgid "Add \"nofollow\" attribute on author website link"
+msgstr "Añadir atributo \"nofollow\" en el enlace del sitio web del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:185
+msgid "Author website position"
+msgstr "Posición del sitio web del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:163
+msgid "Show author website"
+msgstr "Mostrar sitio web del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:156
+msgid "Rotate effect on author avatar hover"
+msgstr "Efecto de rotación al pasar por el avatar del autor: "
+
+#: inc/class-simple-author-box-admin-page.php:150
+#: inc/class-simple-author-box-admin-page.php:213
+msgid "Circle"
+msgstr "Circulo"
+
+#: inc/class-simple-author-box-admin-page.php:145
+msgid "Author avatar image style"
+msgstr "Estilo de la imagen del avatar del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:57
+msgid "Hide the author box if author description is empty"
+msgstr "Esconder el recuadro del autor si la descripción está vacía:"
+
+#: inc/class-simple-author-box-admin-page.php:100
+msgid "Bottom margin of author box"
+msgstr "Margen inferior del recuadro del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:89
+msgid "Top margin of author box"
+msgstr "Margen superior del recuadro del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:45
+msgid "If you want to manually insert the Simple Author Box in your template file (single post view), you can use the following code snippet"
+msgstr "Si tú quieres insertar manualmente el \"Simple Author Box\", en tu plantilla, (del tipo \"Simple Post View\"), puedes usar el siguiente código:"
+
+#: inc/class-simple-author-box-admin-page.php:39
+msgid "Manually insert the Simple Author Box"
+msgstr "Insertar manualmente el \"Simple Author Box\":"
+
+#: inc/class-simple-author-box-admin-page.php:249
+msgid "Author website link color"
+msgstr "Color del enlace del sitio web del autor:"
+
+#: inc/class-simple-author-box-admin-page.php:170
+msgid "Open author website link in a new tab"
+msgstr "Abrir enlace del sitio web del autor en una nueva lengüeta:"
